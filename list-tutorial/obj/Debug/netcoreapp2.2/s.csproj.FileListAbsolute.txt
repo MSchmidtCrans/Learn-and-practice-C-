@@ -1,0 +1,11 @@
+C:\laragon\www\Learn-and-practice-C-\list-tutorial\bin\Debug\netcoreapp2.2\s.deps.json
+C:\laragon\www\Learn-and-practice-C-\list-tutorial\bin\Debug\netcoreapp2.2\s.runtimeconfig.json
+C:\laragon\www\Learn-and-practice-C-\list-tutorial\bin\Debug\netcoreapp2.2\s.runtimeconfig.dev.json
+c:\laragon\www\Learn-and-practice-C-\list-tutorial\bin\Debug\netcoreapp2.2\s.dll
+c:\laragon\www\Learn-and-practice-C-\list-tutorial\bin\Debug\netcoreapp2.2\s.pdb
+c:\laragon\www\Learn-and-practice-C-\list-tutorial\obj\Debug\netcoreapp2.2\s.csprojAssemblyReference.cache
+c:\laragon\www\Learn-and-practice-C-\list-tutorial\obj\Debug\netcoreapp2.2\s.csproj.CoreCompileInputs.cache
+c:\laragon\www\Learn-and-practice-C-\list-tutorial\obj\Debug\netcoreapp2.2\s.AssemblyInfoInputs.cache
+c:\laragon\www\Learn-and-practice-C-\list-tutorial\obj\Debug\netcoreapp2.2\s.AssemblyInfo.cs
+c:\laragon\www\Learn-and-practice-C-\list-tutorial\obj\Debug\netcoreapp2.2\s.dll
+c:\laragon\www\Learn-and-practice-C-\list-tutorial\obj\Debug\netcoreapp2.2\s.pdb
