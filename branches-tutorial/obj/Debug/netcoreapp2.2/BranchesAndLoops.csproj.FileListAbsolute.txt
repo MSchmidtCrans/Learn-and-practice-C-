@@ -1,0 +1,11 @@
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.deps.json
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.runtimeconfig.json
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.runtimeconfig.dev.json
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.dll
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.pdb
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.csprojAssemblyReference.cache
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.AssemblyInfo.cs
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.dll
+C:\laragon\www\Learn-and-practice-C-\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.pdb
