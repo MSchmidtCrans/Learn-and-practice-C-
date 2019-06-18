@@ -1,0 +1,11 @@
+C:\laragon\www\Learn-and-practice-C-\LINQ-practice\bin\Debug\netcoreapp2.2\LINQ-practice.deps.json
+C:\laragon\www\Learn-and-practice-C-\LINQ-practice\bin\Debug\netcoreapp2.2\LINQ-practice.runtimeconfig.json
+C:\laragon\www\Learn-and-practice-C-\LINQ-practice\bin\Debug\netcoreapp2.2\LINQ-practice.runtimeconfig.dev.json
+c:\laragon\www\Learn-and-practice-C-\LINQ-practice\bin\Debug\netcoreapp2.2\LINQ-practice.dll
+c:\laragon\www\Learn-and-practice-C-\LINQ-practice\bin\Debug\netcoreapp2.2\LINQ-practice.pdb
+c:\laragon\www\Learn-and-practice-C-\LINQ-practice\obj\Debug\netcoreapp2.2\LINQ-practice.csprojAssemblyReference.cache
+c:\laragon\www\Learn-and-practice-C-\LINQ-practice\obj\Debug\netcoreapp2.2\LINQ-practice.csproj.CoreCompileInputs.cache
+c:\laragon\www\Learn-and-practice-C-\LINQ-practice\obj\Debug\netcoreapp2.2\LINQ-practice.AssemblyInfoInputs.cache
+c:\laragon\www\Learn-and-practice-C-\LINQ-practice\obj\Debug\netcoreapp2.2\LINQ-practice.AssemblyInfo.cs
+c:\laragon\www\Learn-and-practice-C-\LINQ-practice\obj\Debug\netcoreapp2.2\LINQ-practice.dll
+c:\laragon\www\Learn-and-practice-C-\LINQ-practice\obj\Debug\netcoreapp2.2\LINQ-practice.pdb
